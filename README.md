@@ -2,7 +2,9 @@
 # Script EAC Alca
 # Auteur : Henrotte Alexandre
 # 
-# Options du script : 1) Créer un utilisateur
+# Options du script :
+#
+#                     1) Créer un utilisateur
 #
 #                     2) Créer des utilisateurs à l'aide d'un fichier csv
 #
