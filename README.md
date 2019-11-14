@@ -1,6 +1,6 @@
 ###########################################################################################
 # Script EAC Alca
-# Auteur : Henrotte Alexandre
+# Auteur : Alexandre.H
 # 
 # Options du script :
 #
@@ -24,8 +24,6 @@
 #
 #                                                                  Année Scolaire 2018-2019
 ###########################################################################################
-# 
-# Adresse mail : alexandre.henrotte1@gmail.com
 #
 # Github : https://www.github.com/EAC-Alex
 #
